@@ -1,0 +1,41 @@
+.header-container {
+    display: flex;
+    height: 50px;
+    justify-content: space-around;
+}
+
+.item1 {
+    background-color: rgba(0, 0, 12, 0);
+    width: 70%;
+    height: 25px;
+    justify-content: flex-start;
+}
+
+.item2 {
+    background-color: rgba(0, 0, 12, 0);
+    width: 100px;
+    height: 25px;
+    
+    justify-content: flex-end;
+    
+}
+
+.item3 {
+    background-color: rgba(0, 0, 12, 0);
+    width: 100px;
+    height: 25px;
+    
+    justify-content: flex-end;
+    
+}
+
+.item4 {
+    background-color: rgba(0, 0, 12, 0);
+    width: 100px;
+    height: 25px;
+    /* align-self: flex-end; */
+    justify-content: flex-end;
+    
+}
+
+
