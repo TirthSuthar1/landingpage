@@ -99,3 +99,15 @@ a:hover {
 a:active {
     text-decoration: underline;
 }
+
+.quotebox {
+    background-color: #a39e9e;
+    height: 400px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+
+}
+
